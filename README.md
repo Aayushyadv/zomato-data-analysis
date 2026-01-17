@@ -18,9 +18,4 @@ I analyzed Zomato restaurant data to understand customer behavior and business o
 🛠 Tools Used:
 Python | Pandas | Matplotlib | Seaborn
 
-🔗 GitHub Repository:
-👉 https://github.com/yourusername/zomato-data-analysis
-
-I’d love feedback from data professionals 🙌
-
 #DataAnalytics #Python #Zomato #Big4 #PortfolioProject
